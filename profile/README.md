@@ -22,8 +22,5 @@
 - mayuanliang: 清华大学硕士，擅长产学研结合的项目及成果推广，主要从事结构设计、嵌入式系统开发及物联网工程化应用相关课题，先后就职于清华大学智能技术与系统国家重点实验室与中国科学院力学研究所，参与多项国家级科研项目以及企业横向课频。
 
 ## 开发团队
-若干软硬件、前后端开发工程师。
-
-### RULEX
 <img src="https://contributors-img.web.app/image?repo=hootrhino/rulex" />
 <img src="https://contributors-img.web.app/image?repo=hootrhino/rulex-dashboard-vue-old" />
