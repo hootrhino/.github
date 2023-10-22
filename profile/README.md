@@ -13,14 +13,6 @@
 - 工业控制类硬件
 - 时序数据库
 
-## 研究方向
-- go 语言在嵌入式Linux开发领域的应用与尝试
-- 神经网络算法在低端嵌入式边缘设备上的实践
-- 针对嵌入式级别的人工智能解决方案
-
-## 科研团队
-- mayuanliang: 清华大学硕士，擅长产学研结合的项目及成果推广，主要从事结构设计、嵌入式系统开发及物联网工程化应用相关课题，先后就职于清华大学智能技术与系统国家重点实验室与中国科学院力学研究所，参与多项国家级科研项目以及企业横向课频。
-
 ## 开发团队
 <img src="https://contributors-img.web.app/image?repo=hootrhino/rulex" />
 <img src="https://contributors-img.web.app/image?repo=hootrhino/rulex-dashboard-vue-old" />
